@@ -1,14 +1,4 @@
-### Hi there 👋
-I'm a student in Wuling Senior High in Taoyuan Taiwan. 
-
-My main is Physics and goal to study in National Taiwan University.
-
-Also working on a individual reasearch ,
-which is about simulating E-coli in computer program,
-finding conections between the parameters about the system and the behavior of the simulated E-coli.
-
-With comparison of another simulation of small particle conducted by several diffusion equations and laws.
-
+Damn bro!
 <!--
 **chuckolantern/chuckolantern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
